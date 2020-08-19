@@ -4,7 +4,7 @@ Code and figures used in my 2020 CICOES internship with Dr. Mariona Claret (CICO
 
 **EddyTracks** holds functions used in data processing and helper functions for statistics
 
-**eddy_map** animates eddy centers and shapes at a depth of 500m over a map of the Gulf of Lion contoured by Rossby number
+**eddy_map** animates eddy centers and shapes at a depth of 500m over a map of the Gulf of Lion contoured by Rossby number for the month of July
 
 **eddy_stats** creates histograms for eddy lifetime (days), propagation (km), Rossby number, and max radius (km)
 
